@@ -1,6 +1,6 @@
 {
-    "name": "@dfyu/download",
-    "version": "1.0.5",
+    "name": "@dfyu/fetch",
+    "version": "1.0.1",
     "description": "",
     "author": "dafu yu",
     "bin": {

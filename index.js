@@ -13,5 +13,5 @@ if (args.length === 2) {
     const ws = fs.createWriteStream(path.resolve(process.cwd(), filename))
     _http.get(url, res => res.pipe(ws))
 } else {
-    console.log("usage: download https://www.xxx.com/aaa.jpg a.jpg")
+    console.log("usage: download \"https://www.xxx.com/aaa.jpg\" a.jpg")
 }
