@@ -1,0 +1,14 @@
+{
+    "name": "@dfyu/download",
+    "version": "1.0.5",
+    "description": "",
+    "author": "dafu yu",
+    "bin": {
+        "download": "./index.js"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RicholeYu/dfyu/download/issues"
+    },
+    "homepage": "https://github.com/RicholeYu/dfyu/download"
+}
